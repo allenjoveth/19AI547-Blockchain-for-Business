@@ -74,6 +74,7 @@ contract DeFiLending {
 
 ```
 # Expected Output:
+![Screenshot 2025-04-21 135241](https://github.com/user-attachments/assets/c78eb6a4-13b3-4aed-b87f-3fb4ba48e025)
 
 ![Screenshot 2025-04-21 134649](https://github.com/user-attachments/assets/9e6b7e72-3b9d-4afa-ac40-b4ae86277573)
 ![Screenshot 2025-04-21 134807](https://github.com/user-attachments/assets/b9e5620f-1680-42af-9e7c-06137c33387e)
