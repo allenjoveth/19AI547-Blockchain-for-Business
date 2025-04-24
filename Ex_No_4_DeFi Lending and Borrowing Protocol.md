@@ -91,13 +91,11 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # Output:
-## Deposit:
-![alt text](deposit.png)
-## collateral:
-![alt text](collateral.png)
-## Borrow:
-![alt text](borrow.png)
 
+![alt text](3.1.png)
+![alt text](3.2.png)
+![alt text](3.3.png)
+![alt text](3.4.png)
 
 # RESULT : 
 The decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed succesfully.
