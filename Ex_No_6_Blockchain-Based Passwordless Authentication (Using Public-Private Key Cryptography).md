@@ -56,3 +56,4 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+Thus, To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks is executed successfully.
