@@ -16,6 +16,10 @@ The smart contract verifies the signature using the user’s public key.
 
 
 # Program:
+## Developed by: ALLEN JOVETH P
+## Register number: 212223240007
+## Date: 28/04/2025
+
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
