@@ -57,15 +57,12 @@ contract ZKVoting {
 
 ```
 # Expected Output:
-Voters commit their votes privately.
 
-
-When revealed, the contract verifies correctness but keeps votes anonymous.
-
-
-Final result is publicly verifiable without exposing individual votes.
-
-
+![alt text](5.1.jpg)
+![alt text](5.2.jpg)
+![alt text](5.3.jpg)
+![alt text](5.4.jpg)
+![alt text](5.5.jpg)
 
 # High-Level Overview:
 Uses ZKPs to ensure anonymous and fair elections.
